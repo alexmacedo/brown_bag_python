@@ -2,39 +2,39 @@
 
 ## Para aprender
 
-- (Idiomatic python)[http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html]
-- (Learn python the hard way)[http://learnpythonthehardway.org/]
-- (Hitchhikers's guide to python)[http://docs.python-guide.org/en/latest/]
+- [http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html](Idiomatic python)
+- [http://learnpythonthehardway.org/](Learn python the hard way)
+- [http://docs.python-guide.org/en/latest/](Hitchhikers's guide to python)
 
 ## Projetos interessantes
 
 ### Frameworks Web
-- (Django)[https://www.djangoproject.com/]
-- (Flask)[http://flask.pocoo.org/]
-- (Bottle)[http://bottlepy.org/docs/dev/index.html]
-- (Pyramid)[http://www.pylonsproject.org/]
-- (Tornado)[http://www.tornadoweb.org/en/stable/]
-- (Falcon)[http://falconframework.org/]
+- [https://www.djangoproject.com/](Django)
+- [http://flask.pocoo.org/](Flask)
+- [http://bottlepy.org/docs/dev/index.html](Bottle)
+- [http://www.pylonsproject.org/](Pyramid)
+- [http://www.tornadoweb.org/en/stable/](Tornado)
+- [http://falconframework.org/](Falcon)
 
 ### Data Science
-- (SciPy)[http://www.scipy.org/]
-- (NumPy)[http://www.numpy.org/]
-- (Pandas)[http://pandas.pydata.org/]
-- (IPython)[http://ipython.org/]
+- [http://www.scipy.org/](SciPy)
+- [http://www.numpy.org/](NumPy)
+- [http://pandas.pydata.org/](Pandas)
+- [http://ipython.org/](IPython)
 
 ### SysAdmin
-- (Salt)[https://docs.saltstack.com/en/2014.7/topics/index.html]
-- (Ansible)[http://www.ansible.com/home]
-- (Fabric)[http://www.fabfile.org/]
+- [https://docs.saltstack.com/en/2014.7/topics/index.html](Salt)
+- [http://www.ansible.com/home](Ansible)
+- [http://www.fabfile.org/](Fabric)
 
 ### Outros
-- Async (Gevent)[http://www.gevent.org/]
-- Network Programming (Twisted)[https://twistedmatrix.com/trac/]
-- CMS (Plone)[https://plone.org/]
-- Task Queue (Celery)[http://www.celeryproject.org/]
-- Process monitoring (Supervisor)[http://supervisord.org/]
-- Web Scraping (Scrapy)[http://scrapy.org/]
-- Process Monitoring (Circus)[http://circus.readthedocs.org/en/latest/]
-- Documentation (Sphinx)[http://sphinx-doc.org/]
-- REST (Eve)[http://python-eve.org/]
-- REST (Sandman)[https://github.com/jeffknupp/sandman]
+- Async [http://www.gevent.org/](Gevent)
+- Network Programming [https://twistedmatrix.com/trac/](Twisted)
+- CMS [https://plone.org/](Plone)
+- Task Queue [http://www.celeryproject.org/](Celery)
+- Process monitoring [http://supervisord.org/](Supervisor)
+- Web Scraping [http://scrapy.org/](Scrapy)
+- Process Monitoring [http://circus.readthedocs.org/en/latest/](Circus)
+- Documentation [http://sphinx-doc.org/](Sphinx)
+- REST [http://python-eve.org/](Eve)
+- REST [https://github.com/jeffknupp/sandman](Sandman)
