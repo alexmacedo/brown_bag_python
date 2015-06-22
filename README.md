@@ -37,3 +37,4 @@
 - Process Monitoring [Circus](http://circus.readthedocs.org/en/latest/)
 - Documentation [Sphinx](http://sphinx-doc.org/)
 - REST [Eve](http://python-eve.org/)
+- Better CURL [httpie](https://github.com/jakubroztocil/httpie)
