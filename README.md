@@ -28,7 +28,7 @@
 - [Fabric](http://www.fabfile.org/)
 
 ### Outros
-- Async [http://www.gevent.org/](Gevent)
+- Async [Gevent](http://www.gevent.org/)
 - Network Programming [Twisted](https://twistedmatrix.com/trac/)
 - CMS [Plone](https://plone.org/)
 - Task Queue [Celery](http://www.celeryproject.org/)
