@@ -5,6 +5,7 @@
 - [Idiomatic python](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 - [Learn python the hard way](http://learnpythonthehardway.org/)
 - [Hitchhikers's guide to python](http://docs.python-guide.org/en/latest/)
+- [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Projetos interessantes
 
@@ -28,6 +29,8 @@
 - [Fabric](http://www.fabfile.org/)
 
 ### Outros
+- Natural Language Processint [NLTK](http://www.nltk.org/)
+- [Thumbor](http://thumbor.org/)
 - Async [Gevent](http://www.gevent.org/)
 - Network Programming [Twisted](https://twistedmatrix.com/trac/)
 - CMS [Plone](https://plone.org/)
@@ -38,3 +41,13 @@
 - Documentation [Sphinx](http://sphinx-doc.org/)
 - REST [Eve](http://python-eve.org/)
 - Better CURL [httpie](https://github.com/jakubroztocil/httpie)
+- Machine Learning [Scikit-learn](http://scikit-learn.org/stable/)
+
+## Bibliotecas interessantes
+- [Requests](http://docs.python-requests.org/en/latest/)
+- [Envelopes](http://tomekwojcik.github.io/envelopes/)
+- [Envoy](https://github.com/kennethreitz/envoy)
+- [Delorean](http://delorean.readthedocs.org/en/latest/)
+- [Pyllow](http://python-pillow.github.io/)
+- [Boto](http://boto.readthedocs.org/en/latest/getting_started.html)
+- [SQLAlchemy](http://www.sqlalchemy.org/)
